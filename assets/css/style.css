@@ -1,0 +1,21 @@
+img {
+  object-fit: cover;
+}
+
+.pointer {
+  cursor: pointer;
+}
+
+* {
+  font-family: 'Inter';
+}
+
+.form-group #loginform label {
+  display: block;
+  text-align: left;
+}
+
+.form-group #loginform input {
+  width: 100%;
+  height: 40px;
+}
